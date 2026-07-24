@@ -1,0 +1,18 @@
+[
+  {
+    "hatenaId": "darakawa830",
+    "initials": "KS",
+    "name": "佐藤 健太",
+    "role": "セキュリティエンジニア（SOC運用 / 検知エンジニアリング）",
+    "bio": "前職は事業会社の情シス。いまはABY3でSplunkベースのSOC運用とと検知ルールの設計をやっています。",
+    "gradient": "linear-gradient(135deg,#db1517,#7a0c0d)"
+  },
+  {
+    "hatenaId": "matsumoto-taro",
+    "initials": "MT",
+    "name": "松本 太郎",
+    "role": "インフラエンジニア",
+    "bio": "Device42を中心としたCMDB運用と、社内インフラの構成管理を担当しています。",
+    "gradient": "linear-gradient(135deg,#3b82f6,#1e3a8a)"
+  }
+]
