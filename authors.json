@@ -14,5 +14,13 @@
     "role": "インフラエンジニア",
     "bio": "Device42を中心としたCMDB運用と、社内インフラの構成管理を担当しています。",
     "gradient": "linear-gradient(135deg,#3b82f6,#1e3a8a)"
-  }
+  },
+{
+    "hatenaId": "y_suzuki_aby3",
+    "initials": "YS",
+    "name": "鈴木 義崇",
+    "role": "セキュリティエンジニア（SIEM設計・構築/エンジニアリング）",
+    "bio": "インフラ全般の経験を経て、現在はAby3にてSplunkを主としたSIEMの設計・構築やコンサルティングを実施しております。新しい技術や製品を検証・チャレンジしていくのが楽しい。",
+    "gradient": "linear-gradient(135deg,#3b82f6,#1e3a8a)"
+  }  
 ]
