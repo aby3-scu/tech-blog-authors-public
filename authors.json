@@ -1,10 +1,10 @@
 [
   {
     "hatenaId": "darakawa830",
-    "initials": "KS",
-    "name": "佐藤 健太",
-    "role": "セキュリティエンジニア（SOC運用 / 検知エンジニアリング）",
-    "bio": "前職は事業会社の情シス。いまはABY3でSplunkベースのSOC運用とと検知ルールの設計をやっています。",
+    "initials": "DA",
+    "name": "荒川 大悟",
+    "role": "プリセールスエンジニア（AWS/SEIM設計）",
+    "bio": "AWS全冠。Terraform大好き人間、現在はSplunkの勉強中",
     "gradient": "linear-gradient(135deg,#db1517,#7a0c0d)"
   },
   {
