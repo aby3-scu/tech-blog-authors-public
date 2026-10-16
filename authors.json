@@ -30,5 +30,13 @@
     "role": "インフラエンジニア（Device42運用・構築／基盤設計）",
     "bio": "Splunk Enterprise Certified Architect。幅広い職種を経験したのち、現在は大手通信事業者様のDevice42サポートチームのリーダーと社内スノボー部の部長も務める。遊びも仕事も本気なタイプ。",
     "gradient": "linear-gradient(135deg,#10b981,#065f46)"
+  },
+    {
+    "hatenaId": "ak_14",
+    "initials": "AT",
+    "name": "武田 章伸",
+    "role": "インフラエンジニア（Device42運用・構築）",
+    "bio": "未経験からインフラエンジニアの道へ。Device42の運用・構築を担当しながら、サーバー、クラウド、セキュリティなどを幅広く学習中。つまずいたことも含めて、等身大で書いていきます。",
+    "gradient": "linear-gradient(135deg,#10b981,#065f46)"
   }
 ]
