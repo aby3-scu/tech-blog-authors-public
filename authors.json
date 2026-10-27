@@ -46,5 +46,13 @@
     "role": "インフラエンジニア（Device42運用・構築）",
     "bio": "前職は音響映像エンジニア。現在はIT業界に挑戦中の駆け出しエンジニア。日々新しい知識や技術を吸収しながら成長中。",
     "gradient": "linear-gradient(135deg,#f97316,#9a3412)"
+  },
+      {
+    "hatenaId": "aby3_urata",
+    "initials": "SU",
+    "name": "浦田 幸代",
+    "role": "セキュリティエンジニア（Splunk設計・構築）",
+    "bio": "Splunk Core Certified Consultant。前職はネットワークエンジニア。現在はSplunkの設計・構築を中心に、セキュリティ基盤の構築に携わっている。",
+    "gradient": "linear-gradient(135deg,#f97316,#9a3412)"
   }
 ]
